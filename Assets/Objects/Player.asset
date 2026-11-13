@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6776cca71cfe8b41a334b9c9d52401b, type: 3}
   m_Name: Player
   m_EditorClassIdentifier: Assembly-CSharp::ScriptableObjects
-  Name: 
+  Name: Bruno
+  Class: Fighter
