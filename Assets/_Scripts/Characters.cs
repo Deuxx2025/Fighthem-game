@@ -9,4 +9,5 @@ public class Characters : ScriptableObject
     public int Health;
     public int Damage;
     public int Defense;
+    public int Mana;
 }
