@@ -1,11 +1,12 @@
+using TMPro;
 using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    [SerializeField] private ScriptableObjects scriptableObject;
+    [SerializeField] private Characters player;
 
     private void Start()
     {
-        print(scriptableObject.Name + scriptableObject.Class);
+        print(player.Class);
     }
 }

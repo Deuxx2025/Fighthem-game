@@ -9,8 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d6776cca71cfe8b41a334b9c9d52401b, type: 3}
+  m_Script: {fileID: 11500000, guid: 7fa5f30d537af9549b48e6be69adc226, type: 3}
   m_Name: Player
-  m_EditorClassIdentifier: Assembly-CSharp::ScriptableObjects
+  m_EditorClassIdentifier: Assembly-CSharp::Characters
   Name: Bruno
   Class: Fighter
+  Type: Normal
+  Health: 100
+  Damage: 25
+  Defense: 15
