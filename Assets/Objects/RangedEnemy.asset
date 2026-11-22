@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fa5f30d537af9549b48e6be69adc226, type: 3}
   m_Name: RangedEnemy
   m_EditorClassIdentifier: Assembly-CSharp::Characters
-  Name: 
-  Class: 
-  Type: 
-  Health: 0
-  Damage: 0
-  Defense: 0
+  Name: Sarzul
+  Class: Mage
+  Type: Fire
+  Health: 75
+  Damage: 40
+  Defense: 10
+  Mana: 200

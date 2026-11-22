@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fa5f30d537af9549b48e6be69adc226, type: 3}
   m_Name: MeleeEnemy
   m_EditorClassIdentifier: Assembly-CSharp::Characters
-  Name: 
-  Class: 
-  Type: 
-  Health: 0
-  Damage: 0
-  Defense: 0
+  Name: Kirkul
+  Class: Knight
+  Type: Earth
+  Health: 100
+  Damage: 30
+  Defense: 15
+  Mana: 100
